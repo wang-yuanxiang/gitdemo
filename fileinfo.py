@@ -147,3 +147,5 @@ if len(li) != 0:
     print(min(li))        #若能胡牌，输出最先能使胡牌的那张牌的位置
 else:
     print('Stop Your Daydream!')
+#test for github
+#do not wanna change the code
